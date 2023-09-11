@@ -1,0 +1,15 @@
+menu = {"Runtz Prerolls":9.50, "raw garden vape":26.50,"Fig Farms Krypto Chronice 3.5g":25}
+
+def __init__(self,menu):
+    menu.self = menu
+
+    for orders in menu.self:  
+        return menu
+    
+    
+    
+print(menu["Runtz Prerolls" ])
+exit()
+
+
+init GeneratorExit
